@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 import java.io.File;
 
-
+//更新项目在IDEA
 public class UI extends JFrame {
     private TextToGraph textGraph;
     private JButton btnLoadFile;
